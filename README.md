@@ -1,4 +1,6 @@
-# Data Analyst
+<a href="url"><img src="https://github.com/user-attachments/assets/597e2b9a-c2b0-4894-a409-c691becd33d8" align="left" height="108" width="108" ></a>
+
+## Data Analyst
 
 #### Technical Skills: SQL, Tableau, Power BI, AWS, Python, Excel
 
