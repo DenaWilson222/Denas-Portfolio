@@ -30,10 +30,13 @@ BSc Cognitive and Clinical Neuroscience | The University of Westminster (_June 2
 - A personal project of mine included designing and producing 3D augmented reality filters for a unique approach to Instagram marketing. Filters accumulated over 45k impressions on Instagram for the company page.!
 
 
-### Projects
+## Projects
+### Data-Driven recommendations for the development of SLEEPER App
+
 [Tableau project dashboard: Sleep Efficiency Data Integration](https://public.tableau.com/views/LifestyleonSleepEfficiancy2/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 [Data Analysis Insights Presentation](https://drive.google.com/file/d/16p0wUAVZN3uUdFQENG_iQIgySi9lLj3t/view?usp=sharing)
 
 For this project, I developed interactive dashboards using Tableau to visualize trends and patterns in social media usage data, analyzed large datasets to identify key insights and correlations and Presented findings through clear and concise visualisations, enabling data-driven decision-making.
 
+![Data-Driven recommendations for the development of SLEEPER](https://github.com/user-attachments/assets/21c936ae-aab3-4a1e-85f6-8767cf8d3fcd)
