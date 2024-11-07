@@ -1,8 +1,8 @@
 <a href="url"><img src="https://github.com/user-attachments/assets/597e2b9a-c2b0-4894-a409-c691becd33d8" align="left" height="108" width="108" ></a>
 
-##    Data Analyst
+##       Data Analyst
 
-####    Technical Skills: SQL, Tableau, Power BI, AWS, Python, Excel
+####       Technical Skills: SQL, Tableau, Power BI, AWS, Python, Excel
 
 ### Education
 BSc Cognitive and Clinical Neuroscience | The University of Westminster (_June 2024_)
@@ -42,3 +42,6 @@ BSc Cognitive and Clinical Neuroscience | The University of Westminster (_June 2
 For this project, I developed interactive dashboards using Tableau to visualize trends and patterns in social media usage data, analysed large datasets to identify key insights and correlations and Presented findings through clear and concise visualisations, enabling data-driven decision-making.
 
 ![Data-Driven recommendations for the development of SLEEPER](https://github.com/user-attachments/assets/21c936ae-aab3-4a1e-85f6-8767cf8d3fcd)
+
+### ESG Analysis of S&P 500 Companies
+This project delved into the intricate relationship between Environmental, Social, and Governance (ESG) factors and the financial performance of S&P 500 companies over 10 years. By leveraging Python, SQL, and Power BI, I extracted, analysed, and visualised extensive datasets to uncover actionable insights for asset managers. The analysis aimed to determine the impact of ESG factors on key financial metrics, such as stock returns and risk.
