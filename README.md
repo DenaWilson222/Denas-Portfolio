@@ -32,6 +32,7 @@ BSc Cognitive and Clinical Neuroscience | The University of Westminster (_June 2
 
 ### Projects
 [Tableau project dashboard: Sleep Efficiency Data Integration](https://public.tableau.com/views/LifestyleonSleepEfficiancy2/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
 [Data Analysis Insights Presentation](https://drive.google.com/file/d/16p0wUAVZN3uUdFQENG_iQIgySi9lLj3t/view?usp=sharing)
 Developed interactive dashboards using Tableau to visualize trends and patterns in social media usage data. Analyzed large datasets to identify key insights and correlations. Presented findings through clear and concise visualizations, enabling data-driven decision-making.
 
