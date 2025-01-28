@@ -51,3 +51,13 @@ This project delved into the intricate relationship between Environmental, Socia
 
 ![image](https://github.com/user-attachments/assets/cb6966c5-0485-41a4-b05c-9482f0a1a8ab)
 
+
+Global GDP change analysis - Power BI project
+
+This report identified the most significant fluctuations in global GDP percentage change between 2000 and 2015, focusing on the period surrounding the 2007/2008 financial crisis. I examined GDP percentage change trends over the period surrounding and following the economic crisis, focusing on the performance of individual identified outliers.
+
+
+[GDP change Analysis.pdf](https://github.com/user-attachments/files/18577970/GDP.change.Analysis.pdf)
+
+[Power BI Documentation.pdf](https://github.com/user-attachments/files/18577971/Power.BI.Documentation.pdf)
+
