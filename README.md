@@ -48,3 +48,6 @@ For this project, I developed interactive dashboards using Tableau to visualise 
 [ESG Analysis Powerpoint](https://github.com/user-attachments/files/18577930/ppt.so.far.1.pptx)
 
 This project delved into the intricate relationship between Environmental, Social, and Governance (ESG) factors and the financial performance of S&P 500 companies over 10 years. By leveraging Python, SQL, and Power BI, I extracted, analysed, and visualised extensive datasets to uncover actionable insights for asset managers. The analysis aimed to determine the impact of ESG factors on key financial metrics, such as stock returns and risk.
+
+![image](https://github.com/user-attachments/assets/cb6966c5-0485-41a4-b05c-9482f0a1a8ab)
+
