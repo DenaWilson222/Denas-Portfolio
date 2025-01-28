@@ -59,5 +59,8 @@ This report identified the most significant fluctuations in global GDP percentag
 
 [GDP change Analysis.pdf](https://github.com/user-attachments/files/18577970/GDP.change.Analysis.pdf)
 
+![image](https://github.com/user-attachments/assets/06dcc637-2f79-456a-9882-e10eebd40199)
+
+
 [Power BI Documentation.pdf](https://github.com/user-attachments/files/18577971/Power.BI.Documentation.pdf)
 
